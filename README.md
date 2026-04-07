@@ -1,8 +1,6 @@
 # CoDiVSR: Rethinking What to Condition and What to Disentangle in Diffusion-based Video Super-Resolution
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=yyang181/colormnet)
-
-[Paper](https://github.com/yyang181/CoDiVSR/blob/main/assets/paper.pdf)
+[Paper](https://github.com/yyang181/CoDiVSR/blob/main/assets/paper.pdf) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yyang181/colormnet)
 
 ## News
 - **March 22, 2026**: We have released our code and checkpoints.
